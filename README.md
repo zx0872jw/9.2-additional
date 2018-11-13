@@ -1,6 +1,6 @@
 # 9.2-additional
-# write this on the 3rd line... class Employee:
 
+class Employee:
     def __init__(self, name, ID_number, Department, Job_Title):
         self.name = name
         self.ID_number = ID_number
